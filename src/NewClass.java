@@ -5,5 +5,6 @@ public class NewClass {
         System.out.println("Hello, Alina!");
         System.out.println("Hello, Alina!");
         System.out.println("Hello, Alina!");
+        System.out.println("Hello, Alina!");
     }
 }
